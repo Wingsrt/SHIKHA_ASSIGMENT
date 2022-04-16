@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "shan",
+      "password": "1234",
+      "task": [
+        {
+          "title": "xcc",
+          "catageory": "todo"
+        },
+        {
+          "title": "kalpa new",
+          "catageory": "todo"
+        },
+        {
+          "title": "angular",
+          "catageory": "inprogress"
+        },
+        {
+          "title": "INDU",
+          "catageory": "done"
+        },
+        {
+          "title": "kjk",
+          "catageory": "todo"
+        }
+      ]
+    }
+  ],
+ 
+}

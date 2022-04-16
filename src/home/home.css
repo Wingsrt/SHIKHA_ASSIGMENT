@@ -1,0 +1,29 @@
+.sidebard{
+    width: 200px;
+    height: 600px;
+    border: 1px solid gray;
+    position: absolute;
+}
+
+.task_div{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-between;
+    align-items: initial;
+    width: 70%;
+    margin-left: 20%;
+}
+
+.task_box{
+
+    width: 130px;
+    border: 1px solid red;
+    
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    height: 0%;
+    flex-direction: column;
+
+
+}
